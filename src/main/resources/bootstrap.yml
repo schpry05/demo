@@ -14,4 +14,4 @@ spring:
 server:
   port: 8002
 
-lucky-word: AB 
+lucky-word: Sachin 
